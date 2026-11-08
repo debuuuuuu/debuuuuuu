@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 20" width="900" height="20" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="12">
+<style>.pk{animation:mv 9s linear infinite}@keyframes mv{from{transform:translateX(0)}to{transform:translateX(870px)}}
+@media (prefers-reduced-motion:reduce){.pk{animation:none}}</style>
+<line x1="0" y1="10" x2="900" y2="10" stroke="#77777A" stroke-dasharray="3 6" opacity=".45"/>
+<text x="0" y="14" fill="#111111" class="pk">·•·</text></svg>
