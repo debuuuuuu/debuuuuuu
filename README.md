@@ -8,10 +8,6 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-<img src="./assets/room.svg" width="100%" alt="ASCII art: a 3 AM apartment room, blinds with city lights, a kid in headphones typing at a CRT cycling through RAG and agent sessions with a rainbow data stream pouring out, cup noodles steaming."/>
-
 ### `// whoami`
 
 ```python
@@ -23,8 +19,6 @@ class Debjit:
     looking_for = "AI / LLM engineering roles + internships"
     hours       = "mostly after midnight"
 ```
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ### `// things i shipped from this room`
 
@@ -54,8 +48,6 @@ class Debjit:
 ### `// toolkit`
 
 <img alt="Python, TypeScript, JavaScript, Rust, React, Next.js, Node.js, Express, Flask, Electron, Postgres, MongoDB, Redis, Prisma, Docker, GitHub Actions, Vercel, Git" src="https://skillicons.dev/icons?i=py,ts,js,rust,react,nextjs,nodejs,express,flask,electron,postgres,mongodb,redis,prisma,docker,githubactions,vercel,git&theme=light&perline=9" />
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
